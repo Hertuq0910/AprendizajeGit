@@ -1,4 +1,12 @@
 body{
     background-color: brown;
-    
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: justify;
 }
+#title{
+    background-color: #565656;
+    color: aliceblue;
+    text-align: center;
+}
+
