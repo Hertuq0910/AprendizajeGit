@@ -1,0 +1,1 @@
+function alertando () {alert ("Hay mucho que estudiar.");}
